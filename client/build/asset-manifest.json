@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d8dc9b15.css",
+    "main.js": "/static/js/main.47ec6a23.js",
+    "static/media/phagspab.ttf": "/static/media/phagspab.53a0e1c88fb64daf1c1a.ttf",
+    "static/media/phagspa.ttf": "/static/media/phagspa.f5ca2b2e1461ce3b0d5d.ttf",
+    "static/media/Harlow-Solid.ttf": "/static/media/Harlow-Solid.93de209513988e23d930.ttf",
+    "index.html": "/index.html",
+    "main.d8dc9b15.css.map": "/static/css/main.d8dc9b15.css.map",
+    "main.47ec6a23.js.map": "/static/js/main.47ec6a23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8dc9b15.css",
+    "static/js/main.47ec6a23.js"
+  ]
+}
