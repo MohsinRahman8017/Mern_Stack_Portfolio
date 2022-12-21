@@ -11,7 +11,7 @@ const mongoose = require("mongoose")
 app.use(cors())
 app.use(express.json())
 app.use(express.urlencoded({extended:true}))
-app.use('/Files', express.static(path.join(__dirname, 'Files')))
+app.use('/tmp/Files', express.static(path.join(__dirname, 'Files')))
 
 
 const username = process.env.DB_USERNAME
