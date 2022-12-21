@@ -7,7 +7,6 @@ const {userRouter} = require("./routes/userRoute")
 const {postRouter} = require("./routes/postRoutes")
 const path = require("path")
 const mongoose = require("mongoose")
-const mongoose = require("mongoose")
 
 
 app.use(cors())
