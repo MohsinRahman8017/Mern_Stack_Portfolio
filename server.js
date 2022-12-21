@@ -11,7 +11,7 @@ const mongoose = require("mongoose")
 app.use(cors())
 app.use(express.json())
 app.use(express.urlencoded({extended:true}))
-app.use("/Files",express.static("Files"))
+app.use("./Files",express.static("Files"))
 mongoose.set('strictQuery', true);
 
 
